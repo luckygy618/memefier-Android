@@ -1,1 +1,1 @@
-# memefier-Android-
+Memefier is an Android app for making gif-formatted memes by editing videos from provided video source.
