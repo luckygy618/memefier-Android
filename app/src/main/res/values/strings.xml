@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">memefier</string>
+    <string name="beforeConvert">Convert to GIF</string>
+    <string name="converting">Converting...</string>
+    <string name="fps">FPS</string>
+    <string name="resolution">Resolution</string>
+    <string name="frame">Frame Rate</string>
+    <string name="addFile">Select a video to convert.</string>
+    <string name="setResolution">Select a resolution.</string>
+    <string name="setFPS">Select a frame rate to convert.</string>
+</resources>
