@@ -49,17 +49,23 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="50dp"
         android:layout_weight="1"
         android:orientation="horizontal"
         android:weightSum="2">
 
-        <Spinner
+
+
+        <NumberPicker
             android:id="@+id/resolution"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:contentDescription="@string/setResolution" />
+            android:theme="@style/AppTheme.Picker"
+            android:scaleY="2"
+            android:scaleX="2"
+            />
+
         <ImageView
             android:layout_width="2dp"
             android:layout_height="30dp"
