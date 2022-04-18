@@ -72,12 +72,15 @@
             android:layout_gravity="center_vertical"
             android:background="#FFFFFF" />
 
-        <Spinner
-            android:id="@+id/frameRate"
+        <TextView
+            android:id="@+id/reset"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:contentDescription="@string/setFPS" />
+            android:text="Reset"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:textSize="40sp" />
 
     </LinearLayout>
 
